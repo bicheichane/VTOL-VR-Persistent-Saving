@@ -1,0 +1,12 @@
+﻿{
+  "$schema": "https://gitlab.com/vtolvr-mods/ModLoader/-/raw/release/schema.json",
+  "Title": "Persistent Saving",
+  "Description": "Enables persistent saving/loading by allowing quick save files to be read from disk instead of just from memory",
+  "PreviewImageUrl": "https://vtolvr-mods.com/static/img/Logo.png",
+  "MetaData": {
+    "DllName": "VTOLPersistentSave.dll",
+    "AllowLoadOnStart": true,
+    "ShowOnMainList": true,
+    "DllHash": ""
+  }
+}
